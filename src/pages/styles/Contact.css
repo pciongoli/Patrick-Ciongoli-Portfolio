@@ -1,0 +1,22 @@
+.Contact {
+   padding: 2rem;
+}
+
+.Contact h2 {
+   font-size: 2rem;
+   margin-bottom: 1rem;
+}
+
+.Contact p {
+   font-size: 1.2rem;
+   line-height: 1.5;
+}
+
+.Contact a {
+   color: inherit;
+   text-decoration: none;
+}
+
+.Contact a:hover {
+   text-decoration: underline;
+}
