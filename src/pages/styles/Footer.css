@@ -1,0 +1,27 @@
+.App-footer {
+   background-color: #282c34;
+   color: white;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 1rem;
+}
+
+.icon-container {
+   display: flex;
+   gap: 1rem;
+}
+
+a {
+   color: white;
+}
+
+.icon-container a {
+   background-color: #282c34;
+   /* color: white; */
+   font-size: 1.5rem;
+}
+
+.icon-container a:hover {
+   color: #b3c3c8;
+}
